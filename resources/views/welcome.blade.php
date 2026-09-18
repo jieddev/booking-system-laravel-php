@@ -5,6 +5,9 @@
   <title>Certicode Meeting Scheduling Booking</title>
 </head>
 <body>
-  <p>Test</p>
+  <p>Welcome to CertiCode Meet Booking and Scheduling System</p>
+
+  <a href="/bookings">Go to Bookings</a>
+
 </body>
 </html>

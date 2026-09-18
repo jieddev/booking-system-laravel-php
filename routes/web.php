@@ -7,5 +7,5 @@ Route::get('/', function () {
 });
 
 Route::get('/bookings', function() {
-    return view('bookings');
+    return view('bookings.index');
 });
