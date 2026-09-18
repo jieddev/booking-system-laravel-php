@@ -1,2 +1,2 @@
-# booking-system-laravel-php
-A Booking application developed using the Laravel Framework (PHP) with Mailer Functionality
+# team-meeting-booking-and-scheduling-system-laravel-php
+A Team Meeting Booking and Scheduling system developed using the Laravel Framework (PHP) with Mailer Functionality
